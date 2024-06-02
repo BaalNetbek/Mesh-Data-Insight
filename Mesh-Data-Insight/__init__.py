@@ -6,7 +6,7 @@ bl_info = {
     "author": "Chuck Norris",
     "version": (1, 0),
     "blender": (4, 1, 0),
-    "location": "View3D > Add > Mesh",
+    "location": "View3D > Properties > Misc",
     "tracker_url": "https://github.com/BaalNetbek/Mesh-Data-Insight/issues",
     "description": "Allows lookup of mesh data",
     "warning": "You are a tester.",
